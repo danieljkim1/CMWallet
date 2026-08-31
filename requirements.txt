@@ -1,5 +1,5 @@
 cryptography
 cbor2
 jwcrypto
-isomdoc
+isomdoc==0.0.5
 git+https://github.com/openwallet-foundation-labs/sd-jwt-python.git
